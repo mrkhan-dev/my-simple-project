@@ -1,0 +1,43 @@
+footer {
+    background-color: #0c0633;
+    color: #fff;
+    a {
+        text-decoration: none;
+        color: #333;
+    }
+
+    .link-like-text {
+        color: #fff;
+    }
+
+
+    .social-icon {
+        display: inline-flex;
+        margin-bottom: 0.25rem;
+        background-color: #fff;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: 1px solid #ddd;
+        margin-top: 0.5rem;
+        margin-right: 0.25rem;
+        padding: 0.5rem;
+        text-decoration: none;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+.subscribe-group {
+    margin-top: 1rem;
+     .form-control {
+        border: 1px solid #ddd;
+        padding: 0.5rem;
+     }
+}
+
+.form-control:hover,
+.form-control:focus {
+    outline: 0px !important;
+    box-shadow: none;
+}

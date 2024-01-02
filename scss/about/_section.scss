@@ -1,0 +1,41 @@
+.card-img-top {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: flex;
+    margin-left: 120px;    
+}
+
+.card-title {
+    margin-left: 80px;
+}
+
+.t1 {
+    margin-left: 110px;
+}
+
+.t3 {
+    margin-left: 100px;
+}
+
+
+.social-icon {
+    display: inline-flex;
+    margin-bottom: 0.25rem;
+    background-color: #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    margin-top: 0.5rem;
+    margin-right: 0.25rem;
+    padding: 0.5rem;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    color: #333;
+}
+
+.card {
+    border: none;
+}

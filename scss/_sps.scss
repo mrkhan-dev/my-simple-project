@@ -1,0 +1,27 @@
+.specification-section {
+    padding: 60px 0;
+    background-color: #F6F6F6;
+
+    .speach {
+        padding-left: 40px;
+        list-style-type: none;
+    }
+
+    .speach li {
+        position: relative;
+        margin-bottom: 25px;
+    }
+
+    .speach li::before{
+        font-family: 'Font Awesome 5 Free';
+        font-size: 2rem;
+        content: '\f058';
+        position: absolute;
+        left: -50px;
+        margin-top: -2px;
+        color: #8b6bff; 
+    }
+}
+
+
+
